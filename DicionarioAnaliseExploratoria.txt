@@ -1,0 +1,17 @@
+Dicionário:
+Antes de começar a descrever queria deixar claro que tentei deixar o mais auto explicativo possivel, por essa razão estou descrevendo apenas por formalidade.
+
+
+*   ID: Id do jogador, para termos a contagem de quantos jogadores há na lista
+*   Nome: Nome do jogador
+*   Idade: Idade do jogador
+*   Nacionalidade: Nacionalidade do jogador
+*   Clube: Clube em que o jogador joga
+*   Pé Dominante: qual é o pé dominante do jogador
+*   Ritmo de trabalho: Nivel de esforço do jogador nos jogos
+*   Posição: Em que posição jogam
+*   Número da Camisa: Número que utilizam no time
+*   Começo: Quando começaram a jogar
+*   Altura: Altura do jogador
+*   Peso: Peso do jogador
+
